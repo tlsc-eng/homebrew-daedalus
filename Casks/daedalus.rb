@@ -1,6 +1,6 @@
 cask "daedalus" do
-  version "3.3.1"
-  sha256 "fbcbeda471c34d33282e406deeb2c5304778c28b5914b6d46f6128d4ca0bf1dc"
+  version "3.4.0"
+  sha256 "3b66ce62836db47f976b91ee919717c97131ed1b26586e1f8f784c725568ec76"
 
   url "https://github.com/tlsc-eng/daedalus/releases/download/v#{version}/Daedalus-#{version}-arm64.zip"
   name "Daedalus"
